@@ -1,4 +1,7 @@
 # Tabela Hash Encadeada com Interface de Terminal
+<p align="center">
+  <img src="TabelaHashLogo.png" alt="Descrição da Imagem">
+</p>
 
 Este projeto foi desenvolvido para a disciplina de Algoritmos e Estruturas de Dados II (AED2), aplicando os conceitos de tabelas e funções hash. Ele implementa uma tabela hash com tratamento de colisões por encadeamento e possui uma interface interativa via terminal, permitindo que o usuário insira, remova, visualize e procure dados na tabela.
 
